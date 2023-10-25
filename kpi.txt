@@ -1,0 +1,3 @@
+Número de api reuilizables sin tocar nada de código
+Número de api compartidas por las dos líneas de negocio
+Número de errores/incidencias por llamadas a la api
