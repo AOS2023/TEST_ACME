@@ -1,3 +1,9 @@
-Número de api reuilizables sin tocar nada de código
-Número de api compartidas por las dos líneas de negocio
-Número de errores/incidencias por llamadas a la api
+-> Applications Up & Running Number APIs (Reuse) Integer REST API Anypoint Platform Exchange
+
+-> Number of Clients (total or per API) Excellent! Exchange, Anypoint CLI Reuse
+
+-> Number APIs reused by both departments process and system apis reuse private APIs clients for these internal APIs
+
+-> Number Calls/Error Percentage % Error, Total or per API, or per Client Quality of Service
+
+-> Performance, avg response time, Request per second Monitoring OOTB Per APIs, in Total, per Client per Exp, Process, System APIs
